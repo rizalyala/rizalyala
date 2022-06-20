@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rizalyala
-- 👀 I’m interested in WEB DEV,SOFT ENG, & DATA
+- 👀 I’m interested in JUNIOR BACKEND
 - 🌱 I’m currently learning PYTHON,HTML, CSS, JS, VUE, DJANGO, AND SQL
 
 <!---
