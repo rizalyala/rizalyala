@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizalyala
 - 👀 I’m interested in JUNIOR BACKEND
-- 🌱 I’m currently learning PYTHON,HTML, CSS, JS, TS, VUE, DJANGO, AND SQL
+- 🌱 I’m currently learning DJANGO,REACT
 
 <!---
 rizalyala/rizalyala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
