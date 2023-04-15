@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rizalyala
-- 👀 I’m interested in JUNIOR MOBILE DEVELOPMENT
+- 👀 I’m interested in JUNIOR MOBILE APP DEV & WEB DEV
 - 🌱 I’m currently learning FLUTTER
 
 <!---
