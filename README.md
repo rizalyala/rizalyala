@@ -4,4 +4,8 @@
 
 Saya menyukai dunia pemrograman sejak SMP , berawal dari hobi bermain game setelah itu mempunyai rasa penasaran terhadap pembuatan game.pada saat itulah saya mulai mempunyai minat untuk memprogram meskipun tidak membuat game.Keahlian yang saya tekuni saat ini adalah pembuatan aplikasi Desktop dan aplikasi Mobile.Saya harap anda suka dengan profile dan karya saya. Terima kasih.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rizalyala)](https://github.com/rizalyala/github-readme-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,flutter,python,html,css" />
+  </a>
+</p>
