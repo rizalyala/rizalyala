@@ -6,6 +6,6 @@ Saya menyukai dunia pemrograman sejak SMP , berawal dari hobi bermain game setel
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,flutter,python,html,css" />
+    <img src="https://skillicons.dev/icons?i=flutter,python,django,sqlite" />
   </a>
 </p>
