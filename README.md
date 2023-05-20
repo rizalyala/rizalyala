@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @rizalyala
-- 👀 I’m interested in JUNIOR MOBILE APP DEV & WEB DEV
-- 🌱 I’m currently learning FLUTTER
+<img src="https://www.figma.com/file/BH9rw20qGXQ5CGvqBVdj7g/Untitled?type=design&node-id=4-16&t=qazKlWi6YrXJm8Z4-4" />
 
-<!---
-rizalyala/rizalyala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
