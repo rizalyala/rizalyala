@@ -2,7 +2,7 @@
 
 ### RIZAL YALA PARADHIKA 
 
-Saya menyukai dunia pemrograman sejak SMP , berawal dari hobi bermain game setelah itu mempunyai rasa penasaran terhadap pembuatan game.pada saat itulah saya mulai mempunyai minat untuk memprogram meskipun tidak membuat game.Keahlian yang saya tekuni saat ini adalah pembuatan aplikasi Desktop dan aplikasi Mobile.Saya harap anda suka dengan profile dan karya saya. Terima kasih.
+I like programming since junior high school, because for me programming is fun, interesting, and sharpens my brain. To be more precise, I make website projects from Django, because of its flexibility and ease. Moreover, now there is AI technology so I just order what I want, take the convenience but learn hard, never be fooled by automatic systems. Use them for profit
 
 <p align="center">
   <a href="https://skillicons.dev">
