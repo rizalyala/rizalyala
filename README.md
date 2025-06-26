@@ -6,12 +6,12 @@ Saya menyukai dunia pemrograman sejak SMP , berawal dari hobi bermain game setel
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,python,django,sqlite,dart" />
+    <img src="https://skillicons.dev/icons?i=python,django,sqlite,nodejs,bash" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,mysql,md,firebase,github" />
+    <img src="https://skillicons.dev/icons?i=mysql,md,firebase,github,npm" />
   </a>
 </p>
